@@ -14,7 +14,7 @@ Running the code
 - Open Jupyter Notebook and navigate to the cloned repository.
 - Open the ETL_pipeline.ipynb notebook.
 - Run the cells in the notebook to execute the ETL pipeline.
-- 
+
 ## Pipeline Stages
 ## Extract
 The pipeline starts by extracting data from a CSV file using the pandas library.
